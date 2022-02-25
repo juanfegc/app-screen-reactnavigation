@@ -12,7 +12,7 @@ Create a new project if not exist
 
 :computer: `npm install native-base react-native-svg react-native-safe-area-context`
 
-:iphone: iOS run pod install  
+:apple: iOS run pod install  
 `cd ios`  
 `pod install`
 
@@ -37,7 +37,7 @@ You will also see any lint errors in the console.
 
 ### :robot: `npm run android`
 
-### :iphone: `npm run ios`
+### :iphone::apple: `npm run ios`
 
 
 ## Debug with real phone :iphone::bug:
